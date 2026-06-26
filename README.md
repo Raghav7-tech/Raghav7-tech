@@ -1,56 +1,46 @@
-# ───❖ SOPHON TERMINAL v2.0.0 ❖───
+# ───❖ SOPHON TERMINAL v3.0.0 ❖───
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-WALLFACER_PROJECT_ACTIVE-critical?style=for-the-badge" alt="Wallfacer Status" />
+  <img src="https://img.shields.io/badge/STATUS-WALLFACER_ACTIVATED-critical?style=for-the-badge" alt="Wallfacer Status" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Raghav7-tech">
-    <img src="https://komarev.com/ghpvc/?username=Raghav7-tech&label=SOPHON%20MONITORING%20HITS&style=for-the-badge&color=000000" alt="SOPHON MONITORING HITS" />
+    <img src="https://komarev.com/ghpvc/?username=Raghav7-tech&label=SOPHON+MONITORING+HITS&color=000000&style=for-the-badge" alt="SOPHON MONITORING HITS" />
   </a>
 </p>
 
 ***
 
-## 📡 Wallfacer Activated
+## 📡 Wallfacer Directive
 > *"We represent ourselves. We represent humanity. And we will not be blockaded."*
 > 
-I am Raghav Dhingra, a developer dedicated to building intelligent systems, blending software with hardware, and solving complex algorithmic challenges. In a universe of constant computation, I design structures that endure.
+I am Raghav Dhingra, a developer building intelligent "phygital" systems, bridging software with hardware, and solving complex algorithmic anomalies under the constant gaze of sophons.
 
 ***
 
-## 🎮 The Three-Body VR Game (Algorithmic Milestones)
-🎭 **Level Activated: Wallfacer Strategy**
-* ⚔️ **LeetCode Knight**: Rating **1910+** (Top Tier Strategy)
-* 🧩 **Algorithmic Mastery**: **1500+** Data Structures & Algorithms (DSA) problems solved.
+## 🎮 The Three-Body VR Game (Algorithmic Telemetry)
+* ⚔️ **LeetCode Knight (Rating: 1910+) | 1500+ DSA problems solved**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghav7-tech&show_icons=true&theme=radical&hide_border=true" alt="Raghav's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav7-tech&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav7-tech&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ***
 
 ## 🌌 Dimensional Strike Capabilities (Tech Stack)
 
-### 💻 Languages & Web
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,nodejs,express,mongo,html,css" alt="Skill Icons" />
+  </a>
 </p>
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-### 🔌 Hardware & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-3F51B5?style=for-the-badge&logo=google&logoColor=white" alt="ML" />
-</p>
+> *Hardware & Machine Learning anomalies processed via:* **ESP32** *and* **ML (Machine Learning)**.
 
 ***
 
@@ -64,7 +54,7 @@ I am Raghav Dhingra, a developer dedicated to building intelligent systems, blen
 
 <details>
   <summary>🔥 <b>SteppeGuard</b> (Click to unfold)</summary>
-  <p>AI-powered platform predicting, monitoring, and mitigating wildfires in Kazakhstan using satellite data and GenAI.</p>
+  <p>AI-powered platform predicting/mitigating wildfires in Kazakhstan using satellite data.</p>
   <p><b>Tech Stack:</b> <i>React, Tailwind, FastAPI, Gemini API, Supabase, NASA FIRMS</i></p>
 </details>
 
@@ -112,11 +102,11 @@ I am Raghav Dhingra, a developer dedicated to building intelligent systems, blen
 ## 🪐 Sophon Unfolding & 3D Space-Time Grid
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raghav7-tech/Raghav7-tech/output/profile-night-rainbow.svg" alt="3D Space-Time Grid" />
+  <img src="https://raw.githubusercontent.com/Raghav7-tech/Raghav7-tech/output/profile-3d-contrib/profile-night-view.svg" alt="3D Space-Time Grid" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raghav7-tech/Raghav7-tech/output/github-contribution-grid-snake.svg" alt="Sophon Unfolding Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Raghav7-tech/Raghav7-tech/output/github-contribution-grid-snake-dark.svg" alt="Sophon Unfolding" />
 </p>
