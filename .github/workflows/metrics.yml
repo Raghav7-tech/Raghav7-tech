@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -17,8 +14,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          config_display: large
           output_action: commit
           committer_branch: output
-          committer_message: "chore: update metrics"
+          committer_message: "chore: update metrics [skip ci]"
