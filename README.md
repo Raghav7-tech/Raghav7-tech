@@ -62,7 +62,7 @@
 <tr>
 <td valign="top" width="55%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raghav7-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff6600&text_color=cccccc&ring_color=ff0000" width="100%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghav7-tech&theme=github_dark" width="100%" alt="GitHub Stats"/>
 
 <br/>
 
@@ -70,7 +70,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav7-tech&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=cccccc" width="100%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghav7-tech&theme=github_dark" width="100%" alt="Top Languages"/>
 
 </td>
 <td valign="top" width="45%">
