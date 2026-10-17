@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+  <title id="title">Animated orbital systems status</title>
+  <desc id="desc">Three orbiting signals connect artificial intelligence, algorithms, and hardware around an active command core.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111d2d"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#f2b84b" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="178" rx="18" fill="url(#panel)" stroke="#30363d"/>
+  <path d="M40 31H860M40 149H860" stroke="#21262d" stroke-width="1"/>
+  <path d="M74 90H826" stroke="url(#beam)" stroke-width="2" stroke-dasharray="8 14">
+    <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+
+  <g transform="translate(450 90)">
+    <ellipse rx="136" ry="48" fill="none" stroke="#58a6ff" stroke-opacity=".26" stroke-width="1.5" stroke-dasharray="5 7">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="13s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="94" ry="68" fill="none" stroke="#f2b84b" stroke-opacity=".22" stroke-width="1.5" stroke-dasharray="3 9">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <circle r="29" fill="#0d1117" stroke="#58a6ff" stroke-width="2" filter="url(#glow)">
+      <animate attributeName="r" values="27;31;27" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values=".65;1;.65" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="7" fill="#f2b84b" filter="url(#glow)">
+      <animate attributeName="opacity" values=".45;1;.45" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <g>
+      <circle cx="136" cy="0" r="6" fill="#58a6ff" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="13s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="94" cy="0" r="5" fill="#f2b84b" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g fill="#8b949e" font-family="JetBrains Mono, Consolas, monospace" font-size="12" letter-spacing="2">
+    <text x="62" y="78">INTELLIGENCE</text>
+    <text x="62" y="101" fill="#58a6ff">ONLINE</text>
+    <circle cx="46" cy="96" r="4" fill="#3fb950">
+      <animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="710" y="78">PHYSICAL SYSTEMS</text>
+    <text x="710" y="101" fill="#f2b84b">LINKED</text>
+    <circle cx="694" cy="96" r="4" fill="#3fb950">
+      <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="450" y="161" text-anchor="middle" fill="#c9d1d9">ORBITAL COMMAND CORE · ACTIVE</text>
+  </g>
+</svg>

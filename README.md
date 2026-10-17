@@ -4,6 +4,10 @@
 
 <br />
 
+<img src="./assets/orbital-status.svg" alt="Animated orbital command status showing intelligence and physical systems online" width="100%" />
+
+<br />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+systems+that+think+in+the+physical+world.;Deep+RL+%C2%B7+IoT+%C2%B7+simulation+%C2%B7+open+source.;Turning+chaotic+problems+into+engineered+outcomes." alt="Animated introduction" />
 
 # RAGHAV DHINGRA
